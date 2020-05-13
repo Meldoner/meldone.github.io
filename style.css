@@ -48,6 +48,9 @@ html, body {
 .h3 {
 	font-size: 1.25rem;
 }
+body {
+  background-image: url(images/cloudmobile.png);
+}
 
 }
 
