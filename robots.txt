@@ -1,1 +1,3 @@
 User-agent: *
+Disallow: 
+Sitemap: https://meldone.pp.ua/sitemap.xml
