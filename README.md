@@ -1,2 +1,2 @@
-# meldone.github.io
-Meldone's bootstrap site.
+# Meldone's Site with bootstrap
+I made this site in 1 day!
