@@ -1,3 +1,18 @@
-header {
+.body {
 	background-color: black;
+}
+
+.My {
+	color: white;
+	font-size: 65px;
+	font-family: Arial;
+	font-weight: bold
+}
+
+.Perenesti {
+	color: white;
+	font-size: 15px;
+	font-family: Arial;
+	font-weight: bold
+
 }
