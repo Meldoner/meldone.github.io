@@ -14,15 +14,11 @@ html {
 	font-weight: bold
 }
 
-.Perenesti,.mobile {
+.Perenesti {
 	color: white;
 	font-size: 15px;
 	font-family: Arial;
 	font-weight: bold
-
-}
-
-.mobile {
 
 }
 
@@ -46,7 +42,7 @@ html {
 	font-size: 55px;
 
 }
-.Perenesti,.mobile {
+.Perenesti {
 	font-size: 13px;
 }
 .spotify {
